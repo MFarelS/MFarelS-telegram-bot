@@ -1,0 +1,27 @@
+{
+  "name": "MFarelS-telegram-bot",
+  "version": "1.0.0",
+  "description": "BOT TELEGRAM MFARELSZ",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "delay": "^5.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "telebot": "^1.4.1"
+  },
+  "engines": {
+    "node": "15.4.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "MFarelS",
+    "Zahra",
+    "MFarelSZ"
+  ],
+  "devDependencies": {},
+  "author": "MFarelS"
+}
